@@ -1,6 +1,20 @@
 # P6-FrontendInterview
 P6以上面试必备前端知识
 
+## 【React Redux】
+
+- [React Redux-compose](https://github.com/FEYeh/P6-FrontendInterview/issues/45)
+
+- [React Redux-promise](https://github.com/FEYeh/P6-FrontendInterview/issues/44)
+
+- [React Redux-applyMiddleware](https://github.com/FEYeh/P6-FrontendInterview/issues/43)
+
+- [React Redux-logger](https://github.com/FEYeh/P6-FrontendInterview/issues/42)
+
+- [React Redux-thunk](https://github.com/FEYeh/P6-FrontendInterview/issues/41)
+
+- [React Redux-使用](https://github.com/FEYeh/P6-FrontendInterview/issues/40)
+
 ## 【React Router】
 
 - [React Router-Hooks](https://github.com/FEYeh/P6-FrontendInterview/issues/39)
