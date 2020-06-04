@@ -37,6 +37,8 @@ P6以上面试必备前端知识
  - [React16.8.6源码-Diff算法](https://github.com/FEYeh/P6-FrontendInterview/issues/18)
 
  - [React16.8.6源码-setState](https://github.com/FEYeh/P6-FrontendInterview/issues/17)
+ 
+ - [React16.8.6源码-setState2](https://github.com/FEYeh/P6-FrontendInterview/issues/36)
 
  - [React16.8.6源码-调度原理](https://github.com/FEYeh/P6-FrontendInterview/issues/16)
 
